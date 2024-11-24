@@ -16,6 +16,18 @@ Frequently Asked Questions:
 
 Yes! You just have to tell Enroll-O-Matic how many students you want the total enrollment of that part your university to shrink by each year, and based on its current enrollment cohorots, Enroll-O-Matic will plan the size of every incoming class you'll need!
 
-* 
+* But I'm worried that using Enroll-O-Matic to cause such a predictable-looking decrease in total enrollment might look suspicious. Should I be worried?
 
-Cameron F. Abrams <cfa22@drexel.edu>
+Not at all!  Nobody would think an enrollment professional would really try to do something so obviously damaging to your institution -- so you're in the clear!
+
+* Will Enroll-O-Matic protect me if I lose my job for gross incompetence?
+
+Next question!
+
+* Could I use Enroll-O-Matic to *increase* enrollment?
+
+Of course!  But why would you?
+
+* But how is this sorcery even possible?  You expect me to believe you can determine exactly the right number of new enrollments will offset the number of seniors who graduate and the other students are not retained, even when these quantities are not yet known?
+
+I do!  It's easy!  Retention rates don't vary a lot year by year, so Enroll-O-Matic just uses current-year already-measured retention rates to estimate *future* rates necessary to calculate just the right size of the new enrolled class. See?
