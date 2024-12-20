@@ -12,9 +12,9 @@ It's that easy!  Enroll-O-Matic will tell you exactly how many new students to e
 
 Frequently Asked Questions:
 
-* I'm interested in surriptitiously shrinking a large part of my university by driving its enrollments down.  Will Enroll-O-Matic help me?
+* I'm a bad person who is interested in surriptitiously shrinking a large part of my university by driving its enrollments down.  Will Enroll-O-Matic help me?
 
-Yes! You just have to tell Enroll-O-Matic how many students you want the total enrollment of that part your university to shrink by each year, and based on its current enrollment cohorots, Enroll-O-Matic will plan the size of every incoming class you'll need!
+Yes! You just have to tell Enroll-O-Matic how many students you want the total enrollment of that part your university to shrink by each year, and based on its current enrollment cohorts, Enroll-O-Matic will plan the size of every incoming class you'll need!
 
 * But I'm worried that using Enroll-O-Matic to cause such a predictable-looking decrease in total enrollment might look suspicious. Should I be worried?
 
