@@ -28,6 +28,6 @@ Next question!
 
 Of course!  But why would you?
 
-* But how is this sorcery even possible?  You expect me to believe you can determine exactly the right number of new enrollments will offset the number of seniors who graduate and the other students are not retained, even when these quantities are not yet known?
+* But how is this sorcery even possible?  You expect me to believe you can determine exactly the right number of new enrollments that will offset the number of seniors who graduate and the other students are not retained, even when these quantities are not yet known?
 
 I do!  It's easy!  Retention rates don't vary a lot year by year, so Enroll-O-Matic just uses current-year already-measured retention rates to estimate *future* rates necessary to calculate just the right size of the new enrolled class. See?
