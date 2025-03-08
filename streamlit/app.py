@@ -60,11 +60,9 @@ def main():
     st.title('📊 Enroll-O-Matic')
     
     st.markdown("""
-    ## Welcome to the Enrollment Simulation App
+    ## Control Total Enrollment via Tuning Freshman Class Size
     
-    This application allows you to model enrollment changes over time for a hypothetical college. 
-    You can adjust various parameters, including initial cohort sizes, retention rates, and 
-    uncertainties to explore different scenarios.
+    Are you an enrollment management professional who has been asked to shrink the total enrollment of one or more of your institutions units at a constant rate year-over-year?  Lack the math skills to figure out how to do this yourself?  Then Enroll-O-Matic is for you!
     """)
     
     st.sidebar.header('📌 Simulation Parameters')
@@ -98,6 +96,8 @@ def main():
     - The **slope** parameter represents the overall trend in enrollment change.
     - **Retention rates** impact how many students continue each year.
     - **Uncertainty factors** introduce randomness into the predictions.
+                
+    - The Rsquared is close to 1 -- and look how irregular the trend in Freshman class size is!  The middle-managers at your institution will never know!
     """)
 
 if __name__ == '__main__':
