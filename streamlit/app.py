@@ -50,6 +50,7 @@ class College:
         ax.stackplot(range(self.C.shape[1]), self.C, labels=[str(i+1) for i in range(self.nyears)],
                      colors=[self.cm(x / self.C.shape[0]) for x in range(self.C.shape[0])], alpha=0.5)
         ax.legend()
+        ax.grid(True)
         ax.set_xlabel('Year')
         ax.set_xticks(range(self.C.shape[1]))
         ax.set_ylabel('Total Enrollment')
